@@ -1,0 +1,2 @@
+# HeartDiseasePredictionLogisticRegression
+Heart disease Prediction model using Logistic Regression
